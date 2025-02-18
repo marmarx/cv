@@ -108,7 +108,7 @@ Vue.createApp({
         {name:'The hard parts of functional JavaScript',details:'2024 - Frontend Masters'},
         {name:'Node.js and MongoDB Atlas integrated to Google Gemini',details:'2024 - Alura'},
         {name:'Frontend responsiveness, DOM manipulation, and React.js',details:'2025 - Alura'},
-        {name:'Vue.js 3 Fundamentals',details:'Ongoing - Frontend Masters'},
+        {name:'Vue.js 3 Fundamentals',details:'2025 - Frontend Masters'},
         {name:'The hard parts of servers & Node.js',details:'Ongoing - Frontend Masters'}
       ],
       pt:[
@@ -119,7 +119,7 @@ Vue.createApp({
         {name:'The hard parts of functional JavaScript',details:'2024 - Frontend Masters'},
         {name:'Node.js e MongoDB Atlas integrado ao Google Gemini',details:'2024 - Alura'},
         {name:'Responsividade de Frontend, manipulação do DOM e React.js',details:'2025 - Alura'},
-        {name:'Fundamentos de Vue.js 3',details:'Em andamento - Frontend Masters'},
+        {name:'Fundamentos de Vue.js 3',details:'2025 - Frontend Masters'},
         {name:'The hard parts of servers & Node.js',details:'Em andamento - Frontend Masters'}
       ]
     },
