@@ -109,7 +109,9 @@ Vue.createApp({
         {name:'Node.js and MongoDB Atlas integrated to Google Gemini',details:'2024 - Alura'},
         {name:'Frontend responsiveness, DOM manipulation, and React.js',details:'2025 - Alura'},
         {name:'Vue.js 3 Fundamentals',details:'2025 - Frontend Masters'},
-        {name:'The hard parts of servers & Node.js',details:'Ongoing - Frontend Masters'}
+        {name:'The hard parts of servers & Node.js',details:'Ongoing - Frontend Masters'},
+        {name:'Python Fundamentals',details:'Ongoing - Frontend Masters'},
+        {name:'SQL Fundamentals',details:'Ongoing - Frontend Masters'}
       ],
       pt:[
         {name:'HTML 5, CSS 3, Javascript, PHP',details:'2016 a 2017 - W3Schools'},
@@ -120,7 +122,9 @@ Vue.createApp({
         {name:'Node.js e MongoDB Atlas integrado ao Google Gemini',details:'2024 - Alura'},
         {name:'Responsividade de Frontend, manipulação do DOM e React.js',details:'2025 - Alura'},
         {name:'Fundamentos de Vue.js 3',details:'2025 - Frontend Masters'},
-        {name:'The hard parts of servers & Node.js',details:'Em andamento - Frontend Masters'}
+        {name:'The hard parts of servers & Node.js',details:'Em andamento - Frontend Masters'},
+        {name:'Fundamentos de Python',details:'Ongoing - Frontend Masters'},
+        {name:'Fundamentos de SQL',details:'Ongoing - Frontend Masters'}
       ]
     },
     achievements:{
