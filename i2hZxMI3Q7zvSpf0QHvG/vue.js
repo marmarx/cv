@@ -123,8 +123,8 @@ Vue.createApp({
         {name:'Responsividade de Frontend, manipulação do DOM e React.js',details:'2025 - Alura'},
         {name:'Fundamentos de Vue.js 3',details:'2025 - Frontend Masters'},
         {name:'The hard parts of servers & Node.js',details:'Em andamento - Frontend Masters'},
-        {name:'Fundamentos de Python',details:'Ongoing - Frontend Masters'},
-        {name:'Fundamentos de SQL',details:'Ongoing - Frontend Masters'}
+        {name:'Fundamentos de Python',details:'Em andamento - Frontend Masters'},
+        {name:'Fundamentos de SQL',details:'Em andamento - Frontend Masters'}
       ]
     },
     achievements:{
