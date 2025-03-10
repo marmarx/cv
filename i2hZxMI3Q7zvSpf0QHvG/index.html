@@ -20,8 +20,9 @@
   <div class="row"><div class="container page">
 
     <div class="third">
-    <div class="photo"><h1 class="name web">{{base.name}}</h1></div>
-    <h1 class="name mob">{{base.name}}</h1>
+    <!-- <div class="photo"><h1 class="name web">{{base.name}}</h1></div> -->
+    <!-- <h1 class="name mob">{{base.name}}</h1> -->
+     <h1 class="name">{{base.name}}</h1>
      <div id="core" class="info">
       <p v-if="location[locale].length"><i class="fa fa-home fa-fw"></i>{{location[locale]}}</p>
       <p v-if="base.phone.length"><i class="fa fa-phone fa-fw"></i><a target="_blank" :href="'https://wa.me/'+base.phone">{{base.phone}}</a></p>
