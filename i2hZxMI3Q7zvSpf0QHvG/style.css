@@ -20,6 +20,9 @@ li{margin-left:25px}
 b{font-weight:bold}i{font-style:italic}
 a{text-decoration:none;word-wrap:break-word}
 
+h1{position:relative;margin: 12px auto 45px;font-size:2.6em;font-weight:bold;color:var(--black);text-align:center;text-shadow:none}
+#core{padding-top:70px}
+
 body{background:#f1f1f1}
 hr{border:0;border-top:1px solid var(--black);margin:20px 100px 20px 0;height:0;opacity:.8}.third hr{border-color:var(--white);margin:0 20px}
 .third{background:var(--backcolor);height:100%}
