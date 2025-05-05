@@ -56,6 +56,8 @@ select{text-align:center;padding:3px}
 .ani-width{animation: ani-width 1.5s ease-out}
 @keyframes ani-width{0%{width:0}}
 
+.edited{position:absolute;width:100%;bottom:0;display:flex;align-items:center;justify-content:center}
+
 @media (max-width:730px){
 #core{padding-top:unset}
 .half,.third,.twothirds{width:100%}
@@ -89,6 +91,6 @@ h2 .fa{padding-right:25px}
 #pgdivider{background:none;height:1px;margin:0}
 #comment{padding-top:30px}
 #achievements{padding-bottom:70px}
-head,script,style,hr,.lang,.plus{display:none}
+head,script,style,hr,.lang,.plus,.edited{display:none}
 @page{size:A4;margin:16mm 5mm 15mm 0mm!important}
 }
