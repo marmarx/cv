@@ -1,5 +1,6 @@
 Vue.createApp({
   data: () => ({
+    edited:{en:'May 5th, 2025',pt:'5 de Maio de 2025'},
     base:{
       name:'Marco Martins',
       phone:'+55 16 98815 0642', //'&#43;&#53;&#53;&#32;&#49;&#54;&#32;&#57;&#32;&#56;&#56;&#49;&#53;&#32;&#48;&#54;&#52;&#50',
@@ -225,9 +226,11 @@ Vue.createApp({
     }
   }),
   computed:{},
-  methods:{changeLang(){
-    this.locale = event.target.value;
-    document.querySelector('html').setAttribute('lang',this.locale==='en'?'en-US':'pt-BR')
-  }},
+  methods:{
+    changeLang(){
+      this.locale = event.target.value;
+      document.querySelector('html').setAttribute('lang',this.locale==='en'?'en-US':'pt-BR')
+    }
+  },
   watch:{}
 }).mount('#app');
