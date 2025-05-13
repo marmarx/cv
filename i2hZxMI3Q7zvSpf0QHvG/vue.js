@@ -112,7 +112,7 @@ Vue.createApp({
         {name:'Vue.js 3 Fundamentals',details:'2025 - Frontend Masters'},
         {name:'The hard parts of servers & Node.js',details:'Ongoing - Frontend Masters'},
         {name:'Python Fundamentals',details:'2025 - Frontend Masters'},
-        {name:'Intermediate Python',details:'Ongoing - Frontend Masters'},
+        {name:'Intermediate Python',details:'2025 - Frontend Masters'},
         {name:'SQL Fundamentals',details:'Ongoing - Frontend Masters'}
       ],
       pt:[
@@ -126,7 +126,7 @@ Vue.createApp({
         {name:'Fundamentos de Vue.js 3',details:'2025 - Frontend Masters'},
         {name:'The hard parts of servers & Node.js',details:'Em andamento - Frontend Masters'},
         {name:'Fundamentos de Python',details:'2025 - Frontend Masters'},
-        {name:'Python Intermediário',details:'Em andamento - Frontend Masters'},
+        {name:'Python Intermediário',details:'2025 - Frontend Masters'},
         {name:'Fundamentos de SQL',details:'Em andamento - Frontend Masters'}
       ]
     },
