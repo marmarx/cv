@@ -110,9 +110,10 @@ Vue.createApp({
         {name:'Node.js and MongoDB Atlas integrated to Google Gemini',details:'2024 - Alura'},
         {name:'Frontend responsiveness, DOM manipulation, and React.js',details:'2025 - Alura'},
         {name:'Vue.js 3 Fundamentals',details:'2025 - Frontend Masters'},
-        {name:'The hard parts of servers & Node.js',details:'Ongoing - Frontend Masters'},
         {name:'Python Fundamentals',details:'2025 - Frontend Masters'},
         {name:'Intermediate Python',details:'2025 - Frontend Masters'},
+        {name:'Gemini + Python: Google AI Studio, Google Colab and AI Agents',details:'2025 - Alura'},
+        {name:'The hard parts of servers & Node.js',details:'Ongoing - Frontend Masters'},
         {name:'SQL Fundamentals',details:'Ongoing - Frontend Masters'}
       ],
       pt:[
@@ -124,9 +125,10 @@ Vue.createApp({
         {name:'Node.js e MongoDB Atlas integrado ao Google Gemini',details:'2024 - Alura'},
         {name:'Responsividade de Frontend, manipulação do DOM e React.js',details:'2025 - Alura'},
         {name:'Fundamentos de Vue.js 3',details:'2025 - Frontend Masters'},
-        {name:'The hard parts of servers & Node.js',details:'Em andamento - Frontend Masters'},
         {name:'Fundamentos de Python',details:'2025 - Frontend Masters'},
         {name:'Python Intermediário',details:'2025 - Frontend Masters'},
+        {name:'Gemini + Python: Google AI Studio, Google Colab e agentes de AI',details:'2025 - Alura'},
+        {name:'The hard parts of servers & Node.js',details:'Em andamento - Frontend Masters'},
         {name:'Fundamentos de SQL',details:'Em andamento - Frontend Masters'}
       ]
     },
