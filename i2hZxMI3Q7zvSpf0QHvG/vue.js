@@ -49,8 +49,9 @@ Vue.createApp({
         {name:'Google Maps',details:'Earth, MyMaps, Maps platform API',level:'60'},
         {name:'Frontend',details:'HTML 5, CSS 3, Javascript, Vue 3',level:'70'},
         {name:'Backend',details:'PHP, Javascript, MongoDB Atlas, Node.js',level:'75'},
+        {name:'Python',details:'',level:'50'},
         {name:'WordPress.org',details:'',level:'100'},
-        {name:'AI',details:'Google Gemini, ChatGPT 4, Claude',level:'90'},
+        {name:'AI',details:'Google Gemini, ChatGPT 4, Claude, Google AI Studio, Google Colab, AI Agents',level:'90'},
         {name:'Arduino ESP Environment',details:'',level:'80'},
         {name:'DJI Drones',details:'',level:'100'},
         {name:'Agile Management',details:'PDCA, Scrum, Kanban',level:'90'}
@@ -65,8 +66,9 @@ Vue.createApp({
         {name:'Google Maps',details:'Earth, MyMaps, Maps platform API',level:'60'},
         {name:'Frontend',details:'HTML 5, CSS 3, Javascript, Vue 3',level:'70'},
         {name:'Backend',details:'PHP, Javascript, MongoDB Atlas, Node.js',level:'75'},
+        {name:'Python',details:'',level:'50'},
         {name:'WordPress.org',details:'',level:'100'},
-        {name:'Inteligência Artificial',details:'Google Gemini, ChatGPT 4, Claude',level:'90'},
+        {name:'Inteligência Artificial',details:'Google Gemini, ChatGPT 4, Claude, Google AI Studio, Google Colab, Agentes de AI',level:'90'},
         {name:'Arduino ESP',details:'',level:'80'},
         {name:'Drones DJI',details:'',level:'100'},
         {name:'Gerenciamento Ágil',details:'PDCA, Scrum, Kanban',level:'90'}
@@ -127,7 +129,7 @@ Vue.createApp({
         {name:'Fundamentos de Vue.js 3',details:'2025 - Frontend Masters'},
         {name:'Fundamentos de Python',details:'2025 - Frontend Masters'},
         {name:'Python Intermediário',details:'2025 - Frontend Masters'},
-        {name:'Gemini + Python: Google AI Studio, Google Colab e agentes de AI',details:'2025 - Alura'},
+        {name:'Gemini + Python: Google AI Studio, Google Colab e Agentes de AI',details:'2025 - Alura'},
         {name:'The hard parts of servers & Node.js',details:'Em andamento - Frontend Masters'},
         {name:'Fundamentos de SQL',details:'Em andamento - Frontend Masters'}
       ]
