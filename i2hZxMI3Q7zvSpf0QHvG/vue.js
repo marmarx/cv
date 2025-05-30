@@ -168,6 +168,7 @@ Vue.createApp({
         {name:'Technical, Economic, Financial, and Environmental Feasibility Study of the Technological Innovation Center',span:'in the city of Registro/SP (2018)'},
         {name:'Strategic and operational support for Airbnb platform clients and AI training',span:' at Directly OnDemand Inc, USA (2018 to 2024)',
         details:[
+          {subhead:'',text:'AI training focused on customer support'},
           {subhead:'',text:'Improvement of listings (description, images, rules)'},
           {subhead:'',text:'Strategies for managing calendars and pricing'},
           {subhead:'',text:'Management of payments and booking deadlines'},
@@ -176,7 +177,7 @@ Vue.createApp({
           {subhead:'',text:'Assistance in critical situations, such as humanitarian crises and natural disasters'},
           {subhead:'',text:'Fraud identification and prevention'},
           {subhead:'',text:'Personalized advice and support in various situations'},
-          {subhead:'',text:'AI training focused on customer support'}
+          {subhead:'',text:'85113 cases solved, CSAT 99% and NPS 82'}
         ]}
       ],
       pt:[
@@ -214,6 +215,7 @@ Vue.createApp({
         {name:'Estudo de Viabilidade Técnica, Econômica, Financeira e Ambiental do Centro de Inovação Tecnológica',span:'da cidade de Registro/SP (2018)'},
         {name:'Suporte estratégico e operacional à clientes da plataforma Airbnb e treinamento de IA',span:' na Directly OnDemand Inc, USA (2018 a 2024)',
         details:[
+          {subhead:'',text:'Treinamento de IA com foco ao atendimento ao consumidor'},
           {subhead:'',text:'Aperfeiçoamento de anúncios (descrição, imagens, regras)'},
           {subhead:'',text:'Estratégias de gerenciamento de calendários e preços'},
           {subhead:'',text:'Gerenciamento de pagamentos e prazos de reservas'},
@@ -222,7 +224,7 @@ Vue.createApp({
           {subhead:'',text:'Assistência em situações críticas, como crises humanitárias e desastres naturais'},
           {subhead:'',text:'Identificação e combate a fraudes'},
           {subhead:'',text:'Aconselhamento e suporte personalizado em diversas situações'},
-          {subhead:'',text:'Treinamento de IA com foco ao atendimento ao consumidor'}
+          {subhead:'',text:'85113 casos resolvidos, CSAT 99% e NPS 82'}
         ]}
       ]
     }
