@@ -92,14 +92,14 @@ Vue.createApp({
         {name:'Volunteer - Rondon Project',details:'Jan 2011 - Ministry of Defense, Brazilian Federal Government'},
         {name:'Intern - Water Treatment System Designer',details:'Mar 2012 to Dec 2012 - Hidrosan Engineering S/A'},
         {name:'Partner - Consultant, Project Manager, Salles and CFO',details:'May 2013 to Aug 2018 - Genos Environmental Consulting LTDA ME'},
-        {name:'Freelancer - Airbnb Community Expert - Customer Support, Conflict Resolution, and AI training',details:'May 2018 to Jul 2024 - Directly OnDemand Inc'}
+        {name:'Freelancer - Airbnb Community Expert - AI training, Customer Support, and Conflict Resolution',details:'May 2018 to Jul 2024 - Directly OnDemand Inc'}
       ],
       pt:[
         {name:'Voluntário - Projeto Social Fênix',details:'Mar 2010 a Nov 2012 - Grupo Estudantil Fênix-USP'},
         {name:'Voluntário - Projeto Rondon',details:'Jan 2011 - Ministério da Defesa, Governo Federal Brasileiro'},
         {name:'Estagiário - Projetista Sistema de Tratamento',details:'Mar 2012 a Dez 2012 - Hidrosan Engenharia S/A'},
         {name:'Sócio - Consultor, Gestor de Projetos, Vendas e CFO',details:'Mai 2013 a Ago 2018 - Genos Consultoria Ambiental LTDA ME'},
-        {name:'Freelancer - Airbnb Community Expert - Atendimento ao cliente, resolução de conflitos, e treinamento de IA',details:'Mai 2018 a Jul 2024 - Directly OnDemand Inc'}
+        {name:'Freelancer - Airbnb Community Expert - Treinamento de IA, Atendimento ao Cliente, e Resolução de Conflitos',details:'Mai 2018 a Jul 2024 - Directly OnDemand Inc'}
       ]
     },
     courses:{
