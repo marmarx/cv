@@ -19,8 +19,8 @@ Vue.createApp({
       pt:{idioms:'Idiomas',skills:'Habilidades',intro:'Intro',edu:'Formação',exp:'Experiência Profissional',courses:'Courses and Certifications',results:'Principais Resultados',activities:'Atividades'}
     },
     intro:{
-      en:'I love to learn new things while brainstorming through tinkering (aka "thinkering"). I\'ve been an administrator and engineer for 6 years, and for another 6 years I worked in customer service. Now I want to be a developer and work in data analysis.',
-      pt:'Adoro aprender coisas novas através do contato direto, enquanto crio, penso e faço. Fui administrador e engenheiro por 6 anos, e por outros 6 anos trabalhei no atendimento ao cliente. Agora quero ser desenvolvedor e trabalhar análise de dados.'
+      en:'I love to learn new things while brainstorming through tinkering (aka "thinkering"). I\'ve been an administrator and engineer for 6 years, and for another 6 years I worked in customer service. Now I want to be a developer and work in big data analysis.',
+      pt:'Adoro aprender coisas novas através do contato direto, enquanto crio, penso e faço. Fui administrador e engenheiro por 6 anos, e por outros 6 anos trabalhei no atendimento ao cliente. Agora quero ser desenvolvedor e trabalhar com análise de dados.'
     },
     languages:{
       en:[
