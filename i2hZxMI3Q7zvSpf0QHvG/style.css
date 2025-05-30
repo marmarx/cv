@@ -94,3 +94,5 @@ h2 .fa{padding-right:25px}
 head,script,style,hr,.lang,.plus,.edited{display:none}
 @page{size:A4;margin:16mm 5mm 15mm 0mm!important}
 }
+
+.reverse{display:flex;flex-direction:column-reverse}
