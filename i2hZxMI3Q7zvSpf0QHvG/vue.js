@@ -51,7 +51,7 @@ Vue.createApp({
         {name:'Backend',details:'PHP, Javascript, MongoDB Atlas, Node.js',level:'75'},
         {name:'Python',details:'',level:'50'},
         {name:'WordPress.org',details:'',level:'100'},
-        {name:'AI',details:'Google Gemini, ChatGPT 4, Claude, Google AI Studio, Colab, AI Agents',level:'90'},
+        {name:'AI',details:'Google Gemini, ChatGPT 4, Claude, Google AI Studio, Google Colab, AI Agents',level:'90'},
         {name:'Arduino ESP Environment',details:'',level:'80'},
         {name:'DJI Drones',details:'',level:'100'},
         {name:'Agile Management',details:'PDCA, Scrum, Kanban',level:'90'}
@@ -68,7 +68,7 @@ Vue.createApp({
         {name:'Backend',details:'PHP, Javascript, MongoDB Atlas, Node.js',level:'75'},
         {name:'Python',details:'',level:'50'},
         {name:'WordPress.org',details:'',level:'100'},
-        {name:'Inteligência Artificial',details:'Google Gemini, ChatGPT 4, Claude, Google AI Studio, Colab, Agentes de AI',level:'90'},
+        {name:'Inteligência Artificial',details:'Google Gemini, ChatGPT 4, Claude, Google AI Studio, Google Colab, Agentes de AI',level:'90'},
         {name:'Arduino ESP',details:'',level:'80'},
         {name:'Drones DJI',details:'',level:'100'},
         {name:'Gerenciamento Ágil',details:'PDCA, Scrum, Kanban',level:'90'}
@@ -113,7 +113,7 @@ Vue.createApp({
         {name:'Frontend responsiveness, DOM manipulation',details:'Alura (2025)'},
         {name:'Vue.js 3 Fundamentals',details:'Frontend Masters (2025)'},
         {name:'Python Fundamentals and Intermediate',details:'Frontend Masters (2025)'},
-        {name:'Gemini + Python: AI Studio, Google Colab and AI Agents',details:'Alura (2025)'},
+        {name:'Gemini + Python: AI Studio, Colab and AI Agents',details:'Alura (2025)'},
         {name:'The hard parts of servers & Node.js',details:'Frontend Masters (Ongoing)'},
         {name:'SQL Fundamentals',details:'Frontend Masters (Ongoing)'}
       ],
@@ -127,7 +127,7 @@ Vue.createApp({
         {name:'Responsividade de Frontend, manipulação do DOM',details:'Alura (2025)'},
         {name:'Fundamentos de Vue.js 3',details:'Frontend Masters (2025)'},
         {name:'Python Fundamentos e Intermediário',details:'Frontend Masters (2025)'},
-        {name:'Gemini + Python: AI Studio, Google Colab e Agentes de AI',details:'Alura (2025)'},
+        {name:'Gemini + Python: AI Studio, Colab e Agentes de AI',details:'Alura (2025)'},
         {name:'The hard parts of servers & Node.js',details:'Frontend Masters (cursando)'},
         {name:'Fundamentos de SQL',details:'Frontend Masters (cursando)'}
       ]
