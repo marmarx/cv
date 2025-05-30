@@ -24,7 +24,7 @@
     <!-- <h1 class="name mob">{{base.name}}</h1> -->
      <div id="core" class="info">
       <p v-if="location[locale].length"><i class="fa fa-home fa-fw"></i>{{location[locale]}}</p>
-      <p v-if="base.phone.length"><i class="fa fa-phone fa-fw"></i><a target="_blank" :href="'https://wa.me/'+base.phone">{{base.phone}}</a></p>
+      <p v-if="base.phone.length"><i class="fa fa-phone fa-fw"></i><a target="_blank" :href="'https://wa.me/'+base.phone.replace(/[^0-9]/g,'')">{{base.phone}}</a></p>
       <p v-if="base.email.length"><i class="fa fa-envelope fa-fw"></i><a target="_blank" :href="'mailto:'+base.email">{{base.email}}</a></p>
       <p v-if="base.github.length"><i class="fa fa-brands fa-github fa-fw"></i><a :href="'https://github.com/'+base.github" target="_blank">/{{base.github}}</a></p>
       <p v-if="base.linkedin.length"><i class="fa fa-brands fa-linkedin fa-fw"></i><a :href="'https://linkedin.com/in/'+base.linkedin" target="_blank">/{{base.linkedin}}</a></p>
