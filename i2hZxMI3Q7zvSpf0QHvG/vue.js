@@ -119,7 +119,7 @@ Vue.createApp({
       ],
       pt:[
         {name:'HTML 5, CSS 3, Javascript, PHP',details:'W3Schools (2016 a 2017)'},
-        {name:'JavaScript: dos primeiros passos ao profissional',details:'Frontend Masters (2024)'},
+        {name:'JavaScript: primeiros passos ao profissional',details:'Frontend Masters (2024)'},
         {name:'JavaScript: the hard parts v2',details:'Frontend Masters (2024)'},
         {name:'The hard parts of asynchronous JavaScript',details:'Frontend Masters (2024)'},
         {name:'The hard parts of functional JavaScript',details:'Frontend Masters (2024)'},
@@ -128,8 +128,8 @@ Vue.createApp({
         {name:'Fundamentos de Vue.js 3',details:'Frontend Masters (2025)'},
         {name:'Python Fundamentos e Intermediário',details:'Frontend Masters (2025)'},
         {name:'Gemini + Python: AI Studio, Google Colab e Agentes de AI',details:'Alura (2025)'},
-        {name:'The hard parts of servers & Node.js',details:'Frontend Masters (Em andamento)'},
-        {name:'Fundamentos de SQL',details:'Frontend Masters (Em andamento)'}
+        {name:'The hard parts of servers & Node.js',details:'Frontend Masters (cursando)'},
+        {name:'Fundamentos de SQL',details:'Frontend Masters (cursando)'}
       ]
     },
     achievements:{
