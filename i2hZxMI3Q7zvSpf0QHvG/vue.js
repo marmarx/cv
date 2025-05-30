@@ -88,14 +88,14 @@ Vue.createApp({
     },
     experiences:{
       en:[
-        {name:'Volunteer - Phoenix Social Project',details:'Mar 2010 to Nov 2012 - Phoenix-USP Student Group, São Carlos/SP, Brazil'},
+        {name:'Volunteer - Phoenix Social Project',details:'Mar 2010 to Nov 2012 - Phoenix-USP Group, São Carlos/SP, Brazil'},
         {name:'Volunteer - Rondon Project',details:'Jan 2011 - Ministry of Defense, Federal Government, Brazil'},
         {name:'Intern - Water Treatment System Designer',details:'Mar 2012 to Dec 2012 - Hidrosan Engineering S/A, São Carlos/SP, Brazil'},
         {name:'Partner - Consultant, Project Manager, Salles and CFO',details:'May 2013 to Aug 2018 - Genos Environmental Consulting LTDA ME, São Carlos/SP, Brazil'},
         {name:'Freelancer - Airbnb Community Expert - Customer Support, Conflict Resolution, and AI training',details:'May 2018 to Jul 2024 - Directly OnDemand Inc, San Francisco, USA'}
       ],
       pt:[
-        {name:'Voluntário - Projeto Social Fênix',details:'Mar 2010 a Nov 2012 - Grupo Estudantil Fênix-USP, São Carlos/SP, Brasil'},
+        {name:'Voluntário - Projeto Social Fênix',details:'Mar 2010 a Nov 2012 - Grupo Fênix-USP, São Carlos/SP, Brasil'},
         {name:'Voluntário - Projeto Rondon',details:'Jan 2011 - Ministério da Defesa, Governo Federal, Brasil'},
         {name:'Estagiário - Projetista Sistema de Tratamento',details:'Mar 2012 a Dez 2012 - Hidrosan Engenharia S/A, São Carlos/SP, Brasil'},
         {name:'Sócio - Consultor, Gestor de Projetos, Vendas e CFO',details:'Mai 2013 a Ago 2018 - Genos Consultoria Ambiental LTDA ME, São Carlos/SP, Brasil'},
