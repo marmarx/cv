@@ -104,30 +104,30 @@ Vue.createApp({
     },
     courses:{
       en:[
-        {name:'HTML 5, CSS 3, Javascript, PHP',details:'self taught, W3Schools (2016 to 2017)'},
+        {name:'HTML 5, CSS 3, Javascript, PHP',details:'W3Schools (2016 to 2017)'},
         {name:'JavaScript: from first steps to professional',details:'Frontend Masters (2024)'},
         {name:'JavaScript: the hard parts v2',details:'Frontend Masters (2024)'},
         {name:'The hard parts of asynchronous JavaScript',details:'Frontend Masters (2024)'},
         {name:'The hard parts of functional JavaScript',details:'Frontend Masters (2024)'},
         {name:'Node.js and MongoDB integrated to Google Gemini',details:'Alura (2024)'},
-        {name:'Frontend responsiveness, DOM manipulation, and React.js',details:'Alura (2025)'},
+        {name:'Frontend responsiveness, DOM manipulation',details:'Alura (2025)'},
         {name:'Vue.js 3 Fundamentals',details:'Frontend Masters (2025)'},
         {name:'Python Fundamentals and Intermediate',details:'Frontend Masters (2025)'},
-        {name:'Gemini + Python: Google AI Studio, Google Colab and AI Agents',details:'Alura (2025)'},
+        {name:'Gemini + Python: AI Studio, Google Colab and AI Agents',details:'Alura (2025)'},
         {name:'The hard parts of servers & Node.js',details:'Frontend Masters (Ongoing)'},
         {name:'SQL Fundamentals',details:'Frontend Masters (Ongoing)'}
       ],
       pt:[
-        {name:'HTML 5, CSS 3, Javascript, PHP',details:'autodidata, W3Schools (2016 a 2017)'},
+        {name:'HTML 5, CSS 3, Javascript, PHP',details:'W3Schools (2016 a 2017)'},
         {name:'JavaScript: dos primeiros passos ao profissional',details:'Frontend Masters (2024)'},
         {name:'JavaScript: the hard parts v2',details:'Frontend Masters (2024)'},
         {name:'The hard parts of asynchronous JavaScript',details:'Frontend Masters (2024)'},
         {name:'The hard parts of functional JavaScript',details:'Frontend Masters (2024)'},
         {name:'Node.js e MongoDB integrado ao Google Gemini',details:'Alura (2024)'},
-        {name:'Responsividade de Frontend, manipulação do DOM e React.js',details:'Alura (2025)'},
+        {name:'Responsividade de Frontend, manipulação do DOM',details:'Alura (2025)'},
         {name:'Fundamentos de Vue.js 3',details:'Frontend Masters (2025)'},
         {name:'Python Fundamentos e Intermediário',details:'Frontend Masters (2025)'},
-        {name:'Gemini + Python: Google AI Studio, Google Colab e Agentes de AI',details:'Alura (2025)'},
+        {name:'Gemini + Python: AI Studio, Google Colab e Agentes de AI',details:'Alura (2025)'},
         {name:'The hard parts of servers & Node.js',details:'Frontend Masters (Em andamento)'},
         {name:'Fundamentos de SQL',details:'Frontend Masters (Em andamento)'}
       ]
