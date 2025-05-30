@@ -58,25 +58,31 @@
       
       <div id="scholl" class="info" v-if="education[locale].length">
         <h2><b><i class="fa fa-graduation-cap fa-fw"></i>{{headings[locale].edu}}</b></h2>
-        <div v-for="edu in education[locale]">
-          <h3><b>{{edu.name}}</b></h3>
-          <p>{{edu.details}}</p>
+        <div class="reverse">
+          <div v-for="edu in education[locale]">
+            <h3><b>{{edu.name}}</b></h3>
+            <p>{{edu.details}}</p>
+          </div>
         </div>
       </div>
     
       <div id="work" class="info" v-if="experiences[locale].length">
         <h2><b><i class="fa fa-coffee fa-fw"></i>{{headings[locale].exp}}</b></h2>
-        <div v-for="experience in experiences[locale]">
-          <h3><b>{{experience.name}}</b></h3>
-          <p>{{experience.details}}</p>
+        <div class="reverse">
+          <div v-for="experience in experiences[locale]">
+            <h3><b>{{experience.name}}</b></h3>
+            <p>{{experience.details}}</p>
+          </div>
         </div>
       </div>
       
       <div id="courses" class="info" v-if="courses[locale].length">
         <h2><b><i class="fa fa-award fa-fw"></i>{{headings[locale].courses}}</b></h2>
-        <div v-for="course in courses[locale]">
-          <h3><b>{{course.name}}</b></h3>
-          <p>{{course.details}}</p>
+        <div class="reverse">
+          <div v-for="course in courses[locale]">
+            <h3><b>{{course.name}}</b></h3>
+            <p>{{course.details}}</p>
+          </div>
         </div>
       </div>
       
@@ -84,6 +90,7 @@
     
       <div id="achievements" class="info pb" v-if="achievements[locale].length">
         <h2><b><i class="fa fa-star fa-fw"></i>{{headings[locale].results}}</b></h2>
+        <div class="reverse">
         <div v-for="achievement in achievements[locale]">
           <h3 v-if="!achievement.details"><b>{{achievement.name}}</b><span>{{' '+achievement.span}}</span></h3>
           <div v-else class="mais">
@@ -104,6 +111,7 @@
             </div></div>
           </div>
         </div> 
+      </div>
       </div>
     </div>
    
