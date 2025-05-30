@@ -80,8 +80,7 @@
         <h2><b><i class="fa fa-award fa-fw"></i>{{headings[locale].courses}}</b></h2>
         <div class="reverse">
           <div v-for="course in courses[locale]">
-            <h3><b>{{course.name}}</b></h3>
-            <p>{{course.details}}</p>
+            <h3><b>{{course.name}}</b><span>, {{course.details}}</span></h3>
           </div>
         </div>
       </div>
