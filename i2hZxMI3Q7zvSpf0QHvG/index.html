@@ -55,23 +55,23 @@
         <h2><b><i class="fa fa-comment fa-fw"></i>{{headings[locale].intro}}</b></h2>
         <p>{{intro[locale]}}</p>
       </div>
-      
-      <div id="scholl" class="info" v-if="education[locale].length">
-        <h2><b><i class="fa fa-graduation-cap fa-fw"></i>{{headings[locale].edu}}</b></h2>
-        <div class="reverse">
-          <div v-for="edu in education[locale]">
-            <h3><b>{{edu.name}}</b></h3>
-            <p>{{edu.details}}</p>
-          </div>
-        </div>
-      </div>
-    
+       
       <div id="work" class="info" v-if="experiences[locale].length">
         <h2><b><i class="fa fa-coffee fa-fw"></i>{{headings[locale].exp}}</b></h2>
         <div class="reverse">
           <div v-for="experience in experiences[locale]">
             <h3><b>{{experience.name}}</b></h3>
             <p>{{experience.details}}</p>
+          </div>
+        </div>
+      </div>
+
+      <div id="scholl" class="info" v-if="education[locale].length">
+        <h2><b><i class="fa fa-graduation-cap fa-fw"></i>{{headings[locale].edu}}</b></h2>
+        <div class="reverse">
+          <div v-for="edu in education[locale]">
+            <h3><b>{{edu.name}}</b></h3>
+            <p>{{edu.details}}</p>
           </div>
         </div>
       </div>
