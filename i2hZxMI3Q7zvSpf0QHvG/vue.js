@@ -119,7 +119,7 @@ Vue.createApp({
       ],
       pt:[
         {name:'HTML 5, CSS 3, Javascript, PHP',details:'W3Schools (2016 a 2017)'},
-        {name:'JavaScript: primeiros passos ao profissional',details:'Frontend Masters (2024)'},
+        {name:'JavaScript: do iniciante ao profissional',details:'Frontend Masters (2024)'},
         {name:'JavaScript: the hard parts v2',details:'Frontend Masters (2024)'},
         {name:'The hard parts of asynchronous JavaScript',details:'Frontend Masters (2024)'},
         {name:'The hard parts of functional JavaScript',details:'Frontend Masters (2024)'},
