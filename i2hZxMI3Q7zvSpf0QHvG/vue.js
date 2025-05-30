@@ -166,7 +166,7 @@ Vue.createApp({
         {name:'Environmental monitoring of the Rio Itapocu course setting',span:'in the city of Barra Velha/SC (2017 to 2018)'},
         {name:'DETRAN fundraising Road Safety Project',span:'for the municipality of Monte Alto/SP (2018)'},
         {name:'Technical, Economic, Financial, and Environmental Feasibility Study of the Technological Innovation Center',span:'in the city of Registro/SP (2018)'},
-        {name:'Strategic and operational support for Airbnb platform clients and AI training',span:'\n2018 to 2024 - Directly OnDemand Inc, San Francisco/CA, USA\n85,113 cases resolved with CSAT 99% and NPS 82',
+        {name:'Strategic and operational support for Airbnb platform clients and AI training',span:'at Directly OnDemand Inc, San Francisco/CA (2018 to 2024)\n85,113 cases resolved with CSAT 99% and NPS 82',
         details:[
           {subhead:'',text:'Improvement of listings (description, images, rules)'},
           {subhead:'',text:'Strategies for managing calendars and pricing'},
@@ -212,7 +212,7 @@ Vue.createApp({
         {name:'Monitoramento ambiental das obras de fixação do Rio Itapocu',span:'da cidade de Barra Velha/SC (2017 a 2018)'},
         {name:'Projeto de Segurança Viária para angariamento de verbas DETRAN/SP',span:'para o município de Monte Alto/SP (2018)'},
         {name:'Estudo de Viabilidade Técnica, Econômica, Financeira e Ambiental do Centro de Inovação Tecnológica',span:'da cidade de Registro/SP (2018)'},
-        {name:'Suporte estratégico e operacional à clientes da plataforma Airbnb e treinamento de IA',span:'\n2018 a 2024 - Directly OnDemand Inc, San Francisco/CA, USA\n85.113 casos resolvidos com CSAT 99% e NPS 82',
+        {name:'Suporte estratégico e operacional à clientes da plataforma Airbnb e treinamento de IA',span:'na Directly OnDemand Inc, San Francisco/CA (2018 a 2024)\n85.113 casos resolvidos com CSAT 99% e NPS 82',
         details:[
           {subhead:'',text:'Aperfeiçoamento de anúncios (descrição, imagens, regras)'},
           {subhead:'',text:'Estratégias de gerenciamento de calendários e preços'},
