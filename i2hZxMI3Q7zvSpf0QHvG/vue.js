@@ -51,7 +51,7 @@ Vue.createApp({
         {name:'Backend',details:'PHP, Javascript, MongoDB Atlas, Node.js',level:'75'},
         {name:'Python',details:'',level:'50'},
         {name:'WordPress.org',details:'',level:'100'},
-        {name:'AI',details:'Google Gemini, ChatGPT 4, Claude, Google AI Studio, Google Colab, AI Agents',level:'90'},
+        {name:'AI',details:'Google Gemini, ChatGPT 4, Claude, Google AI Studio, Colab, AI Agents',level:'90'},
         {name:'Arduino ESP Environment',details:'',level:'80'},
         {name:'DJI Drones',details:'',level:'100'},
         {name:'Agile Management',details:'PDCA, Scrum, Kanban',level:'90'}
@@ -68,7 +68,7 @@ Vue.createApp({
         {name:'Backend',details:'PHP, Javascript, MongoDB Atlas, Node.js',level:'75'},
         {name:'Python',details:'',level:'50'},
         {name:'WordPress.org',details:'',level:'100'},
-        {name:'Inteligência Artificial',details:'Google Gemini, ChatGPT 4, Claude, Google AI Studio, Google Colab, Agentes de AI',level:'90'},
+        {name:'Inteligência Artificial',details:'Google Gemini, ChatGPT 4, Claude, Google AI Studio, Colab, Agentes de AI',level:'90'},
         {name:'Arduino ESP',details:'',level:'80'},
         {name:'Drones DJI',details:'',level:'100'},
         {name:'Gerenciamento Ágil',details:'PDCA, Scrum, Kanban',level:'90'}
