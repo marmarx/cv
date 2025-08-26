@@ -114,6 +114,7 @@ Vue.createApp({
         {name:'Vue.js 3 Fundamentals',details:'Frontend Masters (2025)'},
         {name:'Python Fundamentals and Intermediate',details:'Frontend Masters (2025)'},
         {name:'Gemini + Python: AI Studio, Colab and AI Agents',details:'Alura (2025)'},
+        {name:'Data Science with Python + Gemini',details:'Alura (2025)'},
         {name:'The hard parts of servers & Node.js',details:'Frontend Masters (Ongoing)'},
         {name:'SQL Fundamentals',details:'Frontend Masters (Ongoing)'}
       ],
@@ -128,6 +129,7 @@ Vue.createApp({
         {name:'Fundamentos de Vue.js 3',details:'Frontend Masters (2025)'},
         {name:'Python Fundamentos e Intermediário',details:'Frontend Masters (2025)'},
         {name:'Gemini + Python: AI Studio, Colab e Agentes de AI',details:'Alura (2025)'},
+        {name:'Ciência de Dados com Python + Gemini',details:'Alura (2025)'},
         {name:'The hard parts of servers & Node.js',details:'Frontend Masters (cursando)'},
         {name:'Fundamentos de SQL',details:'Frontend Masters (cursando)'}
       ]
@@ -238,3 +240,4 @@ Vue.createApp({
   },
   watch:{}
 }).mount('#app');
+
