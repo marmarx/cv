@@ -20,7 +20,7 @@ Vue.createApp({
     },
     intro:{
       en:'I love to learn new things while brainstorming through tinkering (aka "thinkering"). I\'ve been an administrator and engineer for 6 years, and for another 6 years I worked in AI training and customer service. Now I want to be a developer and/or work in big data analysis.',
-      pt:'Adoro aprender coisas novas através do contato direto, enquanto crio, penso e faço. Fui administrador e engenheiro por 6 anos, e por outros 6 anos trabalhei no treinamento de IA e atendimento ao cliente. Agora quero ser desenvolvedor e/ou trabalhar com análise de dados.'
+      pt:'Adoro aprender coisas novas através do contato direto, enquanto crio, penso e faço. Fui administrador e engenheiro por 6 anos, e por outros 6 anos trabalhei no treinamento de IA e atendimento ao cliente. Agora quero ser desenvolvedor e/ou trabalhar com análise de big data.'
     },
     languages:{
       en:[
@@ -244,6 +244,7 @@ Vue.createApp({
   },
   watch:{}
 }).mount('#app');
+
 
 
 
