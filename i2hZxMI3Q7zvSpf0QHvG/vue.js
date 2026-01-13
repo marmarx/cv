@@ -183,7 +183,7 @@ Vue.createApp({
           {subhead:'',text:'Personalized advice and support in various situations'},
           {subhead:'',text:'85113 cases solved, CSAT 99% and NPS 82'}
         ]},
-        {name:'Development of a system for Managing Private Lessons using Vue.js + Capacitor.',span:'Live at https://gestaodeaulas.netlify.app/'}
+        {name:'Development of a system for Managing Private Lessons using Vue.js + Capacitor',span:' live at https://gestaodeaulas.netlify.app/'}
       ],
       pt:[
         {name:'Projeto Básico de um Tanque de Regularização de Vazão de resíduos',span:'para a ETA Foz do Brasil em Limeira/SP (2012)'},
@@ -231,7 +231,7 @@ Vue.createApp({
           {subhead:'',text:'Aconselhamento e suporte personalizado em diversas situações'},
           {subhead:'',text:'85113 casos resolvidos, CSAT 99% e NPS 82'}
         ]},
-        {name:'Desenvolvimento de um sistema para Gestão de Aulas Particulares em Vue.js + Capacitor',span:'Disponível em https://gestaodeaulas.netlify.app/'}
+        {name:'Desenvolvimento de um sistema para Gestão de Aulas Particulares em Vue.js + Capacitor',span:' disponível em https://gestaodeaulas.netlify.app/'}
       ]
     }
   }),
@@ -244,6 +244,7 @@ Vue.createApp({
   },
   watch:{}
 }).mount('#app');
+
 
 
 
