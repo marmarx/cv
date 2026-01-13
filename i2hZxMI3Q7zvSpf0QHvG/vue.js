@@ -1,6 +1,6 @@
 Vue.createApp({
   data: () => ({
-    edited:{en:'Updated on May 30th, 2025',pt:'Atualizado em 30 de Maio de 2025'},
+    edited:{en:'Updated on Jan 13th, 2025',pt:'Atualizado em 13 de Janeiro de 2025'},
     base:{
       name:'Marco Martins',
       phone:'+55 16 98815 0642', //'&#43;&#53;&#53;&#32;&#49;&#54;&#32;&#57;&#32;&#56;&#56;&#49;&#53;&#32;&#48;&#54;&#52;&#50',
@@ -92,14 +92,16 @@ Vue.createApp({
         {name:'Volunteer - Rondon Project',details:'Jan 2011 - Ministry of Defense, Brazilian Federal Government'},
         {name:'Intern - Water Treatment System Designer',details:'Mar 2012 to Dec 2012 - Hidrosan Engineering S/A'},
         {name:'Partner - Consultant, Project Manager, Salles and CFO',details:'May 2013 to Aug 2018 - Genos Environmental Consulting LTDA ME'},
-        {name:'Freelancer - Airbnb Community Expert - AI training, Customer Support, and Conflict Resolution',details:'May 2018 to Jul 2024 - Directly OnDemand Inc'}
+        {name:'Freelancer - Airbnb Community Expert - AI training, Customer Support, and Conflict Resolution',details:'May 2018 to Jul 2024 - Directly OnDemand Inc'},
+        {name:'Freelancer - Assessor - Certification of SEDUC/SP professionals in school management for learning',details:'Mar 2025 to Mar 2026 - Fundação Getúlio Vargas'}
       ],
       pt:[
         {name:'Voluntário - Projeto Social Fênix',details:'Mar 2010 a Nov 2012 - Grupo Estudantil Fênix-USP'},
         {name:'Voluntário - Projeto Rondon',details:'Jan 2011 - Ministério da Defesa, Governo Federal Brasileiro'},
         {name:'Estagiário - Projetista Sistema de Tratamento',details:'Mar 2012 a Dez 2012 - Hidrosan Engenharia S/A'},
         {name:'Sócio - Consultor, Gestor de Projetos, Vendas e CFO',details:'Mai 2013 a Ago 2018 - Genos Consultoria Ambiental LTDA ME'},
-        {name:'Freelancer - Airbnb Community Expert - Treinamento de IA, Atendimento ao Cliente, e Resolução de Conflitos',details:'Mai 2018 a Jul 2024 - Directly OnDemand Inc'}
+        {name:'Freelancer - Airbnb Community Expert - Treinamento de IA, Atendimento ao Cliente, e Resolução de Conflitos',details:'Mai 2018 a Jul 2024 - Directly OnDemand Inc'},
+        {name:'Freelancer - Avaliador - Certificação de profissionais SEDUC/SP em gestão escolar para a aprendizagem',details:'Mar 2025 a Mar 2026 - Fundação Getúlio Vargas'}
       ]
     },
     courses:{
@@ -115,8 +117,8 @@ Vue.createApp({
         {name:'Python Fundamentals and Intermediate',details:'Frontend Masters (2025)'},
         {name:'Gemini + Python: AI Studio, Colab and AI Agents',details:'Alura (2025)'},
         {name:'Data Science with Python + Gemini',details:'Alura (2025)'},
-        {name:'The hard parts of servers & Node.js',details:'Frontend Masters (Ongoing)'},
-        {name:'SQL Fundamentals',details:'Frontend Masters (Ongoing)'}
+        {name:'Gemini: Database and Vibe Coding',details:'Alura (2025)'},
+        {name:'SQL Fundamentals',details:'USP ICMC (2025)'}
       ],
       pt:[
         {name:'HTML 5, CSS 3, Javascript, PHP',details:'W3Schools (2016 a 2017)'},
@@ -130,8 +132,8 @@ Vue.createApp({
         {name:'Python Fundamentos e Intermediário',details:'Frontend Masters (2025)'},
         {name:'Gemini + Python: AI Studio, Colab e Agentes de AI',details:'Alura (2025)'},
         {name:'Ciência de Dados com Python + Gemini',details:'Alura (2025)'},
-        {name:'The hard parts of servers & Node.js',details:'Frontend Masters (cursando)'},
-        {name:'Fundamentos de SQL',details:'Frontend Masters (cursando)'}
+        {name:'Gemini: Banco de Dados e Vibe Coding',details:'Alura (2025)'},
+        {name:'Fundamentos de SQL',details:'USP ICMC (2025)'}
       ]
     },
     achievements:{
@@ -180,7 +182,8 @@ Vue.createApp({
           {subhead:'',text:'Fraud identification and prevention'},
           {subhead:'',text:'Personalized advice and support in various situations'},
           {subhead:'',text:'85113 cases solved, CSAT 99% and NPS 82'}
-        ]}
+        ]},
+        {name:'Development of a system for Managing Private Lessons using Vue.js + Capacitor.',span:'Live at <a href="https://gestaodeaulas.netlify.app/" about="_blank">Netlify</a>'}
       ],
       pt:[
         {name:'Projeto Básico de um Tanque de Regularização de Vazão de resíduos',span:'para a ETA Foz do Brasil em Limeira/SP (2012)'},
@@ -227,7 +230,8 @@ Vue.createApp({
           {subhead:'',text:'Identificação e combate a fraudes'},
           {subhead:'',text:'Aconselhamento e suporte personalizado em diversas situações'},
           {subhead:'',text:'85113 casos resolvidos, CSAT 99% e NPS 82'}
-        ]}
+        ]},
+        {name:'Desenvolvimento de um sistema para Gestão de Aulas Particulares em Vue.js + Capacitor',span:'Ao vivo em <a href="https://gestaodeaulas.netlify.app/" about="_blank">Netlify</a>'}
       ]
     }
   }),
@@ -240,4 +244,5 @@ Vue.createApp({
   },
   watch:{}
 }).mount('#app');
+
 
