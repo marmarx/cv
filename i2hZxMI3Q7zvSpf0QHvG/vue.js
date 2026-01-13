@@ -93,7 +93,7 @@ Vue.createApp({
         {name:'Intern - Water Treatment System Designer',details:'Mar 2012 to Dec 2012 - Hidrosan Engineering S/A'},
         {name:'Partner - Consultant, Project Manager, Salles and CFO',details:'May 2013 to Aug 2018 - Genos Environmental Consulting LTDA ME'},
         {name:'Freelancer - Airbnb Community Expert - AI training, Customer Support, and Conflict Resolution',details:'May 2018 to Jul 2024 - Directly OnDemand Inc'},
-        {name:'Freelancer - Assessor - Certification of SEDUC/SP professionals in school management for learning',details:'Mar 2025 to Mar 2026 - Fundação Getúlio Vargas'}
+        {name:'Freelancer - Assessor - Certification of SEDUC/SP professionals in school management oriented towards teaching and learning',details:'Mar 2025 to Mar 2026 - Fundação Getúlio Vargas'}
       ],
       pt:[
         {name:'Voluntário - Projeto Social Fênix',details:'Mar 2010 a Nov 2012 - Grupo Estudantil Fênix-USP'},
@@ -101,7 +101,7 @@ Vue.createApp({
         {name:'Estagiário - Projetista Sistema de Tratamento',details:'Mar 2012 a Dez 2012 - Hidrosan Engenharia S/A'},
         {name:'Sócio - Consultor, Gestor de Projetos, Vendas e CFO',details:'Mai 2013 a Ago 2018 - Genos Consultoria Ambiental LTDA ME'},
         {name:'Freelancer - Airbnb Community Expert - Treinamento de IA, Atendimento ao Cliente, e Resolução de Conflitos',details:'Mai 2018 a Jul 2024 - Directly OnDemand Inc'},
-        {name:'Freelancer - Avaliador - Certificação de profissionais SEDUC/SP em gestão escolar para a aprendizagem',details:'Mar 2025 a Mar 2026 - Fundação Getúlio Vargas'}
+        {name:'Freelancer - Avaliador - Certificação de profissionais SEDUC/SP em gestão escolar para o ensino e a aprendizagem',details:'Mar 2025 a Mar 2026 - Fundação Getúlio Vargas'}
       ]
     },
     courses:{
@@ -244,5 +244,6 @@ Vue.createApp({
   },
   watch:{}
 }).mount('#app');
+
 
 
