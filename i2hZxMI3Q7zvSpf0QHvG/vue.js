@@ -1,6 +1,6 @@
 Vue.createApp({
   data: () => ({
-    edited:{en:'Updated on Jan 13th, 2025',pt:'Atualizado em 13 de Janeiro de 2025'},
+    edited:{en:'Updated on Jan 13th, 2026',pt:'Atualizado em 13 de Janeiro de 2026'},
     base:{
       name:'Marco Martins',
       phone:'+55 16 98815 0642', //'&#43;&#53;&#53;&#32;&#49;&#54;&#32;&#57;&#32;&#56;&#56;&#49;&#53;&#32;&#48;&#54;&#52;&#50',
@@ -244,6 +244,7 @@ Vue.createApp({
   },
   watch:{}
 }).mount('#app');
+
 
 
 
