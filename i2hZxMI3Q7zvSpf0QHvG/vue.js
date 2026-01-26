@@ -118,7 +118,9 @@ Vue.createApp({
         {name:'Gemini + Python: AI Studio, Colab and AI Agents',details:'Alura (2025)'},
         {name:'Data Science with Python + Gemini',details:'Alura (2025)'},
         {name:'Gemini: Database and Vibe Coding',details:'Alura (2025)'},
-        {name:'SQL Fundamentals',details:'USP ICMC (2025)'}
+        {name:'SQL Fundamentals',details:'USP ICMC (2025)'},
+        {name:'Node.js for beginners',details:'MOOC IFES (ongoing)'},
+        {name:'Intro to NoSQL with MongoDB',details:'MOOC IFES (ongoing)'}
       ],
       pt:[
         {name:'HTML 5, CSS 3, Javascript, PHP',details:'W3Schools (2016 a 2017)'},
@@ -133,7 +135,9 @@ Vue.createApp({
         {name:'Gemini + Python: AI Studio, Colab e Agentes de AI',details:'Alura (2025)'},
         {name:'Ciência de Dados com Python + Gemini',details:'Alura (2025)'},
         {name:'Gemini: Banco de Dados e Vibe Coding',details:'Alura (2025)'},
-        {name:'Fundamentos de SQL',details:'USP ICMC (2025)'}
+        {name:'Fundamentos de SQL',details:'USP ICMC (2025)'},
+        {name:'Node.js para iniciantes',details:'MOOC IFES (cursando)'},
+        {name:'Introdução a NoSQL com MongoDB',details:'MOOC IFES (cursando)'}
       ]
     },
     achievements:{
@@ -244,6 +248,7 @@ Vue.createApp({
   },
   watch:{}
 }).mount('#app');
+
 
 
 
