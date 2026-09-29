@@ -48,7 +48,7 @@ Vue.createApp({
         {name: 'ESRI ArcGIS', details: '', level: '60'},
         {name: 'Google Maps', details: 'Earth, MyMaps, Maps platform API', level: '60'},
         {name: 'Frontend', details: 'HTML 5, CSS 3, JavaScript, Vue 3', level: '70'},
-        {name: 'Backend', details: 'PHP, Node.js, MongoDB Atlas', level: '35'},
+        {name: 'Backend', details: 'Node.js, MongoDB Atlas, PHP', level: '35'},
         {name: 'Automation',  details: 'Python and JavaScript',  level: '60'},
         {name: 'Data Science', details: 'Python, Pandas, Pyplot, Seaborn', level: '45'},
         {name: 'WordPress.org', details: '', level: '100'},
@@ -66,7 +66,7 @@ Vue.createApp({
         {name: 'ESRI ArcGIS', details: '', level: '60'},
         {name: 'Google Maps', details: 'Earth, MyMaps, Maps platform API', level: '60'},
         {name: 'Frontend', details: 'HTML 5, CSS 3, JavaScript, Vue 3', level: '70'},
-        {name: 'Backend', details: 'PHP, Node.js, MongoDB Atlas', level: '35'},
+        {name: 'Backend', details: 'Node.js, MongoDB Atlas, PHP', level: '35'},
         {name: 'Automação',  details: 'Python e JavaScript',  level: '60'},
         {name: 'Ciência de Dados', details: 'Python, Pandas, Pyplot, Seaborn', level: '45'},
         {name: 'WordPress.org', details: '', level: '100'},
@@ -103,7 +103,7 @@ Vue.createApp({
         {name: 'Estagiário - Projetista Sistema de Tratamento', details: 'Mar 2012 a Dez 2012 - Hidrosan Engenharia S/A'},
         {name: 'Sócio - Consultor, Gestor de Projetos, Vendas e CFO', details: 'Mai 2013 a Ago 2018 - Genos Consultoria Ambiental LTDA ME'},
         {name: 'Freelancer - Airbnb Community Expert - Treinamento de IA, Atendimento ao Cliente, e Resolução de Conflitos', details: 'Mai 2018 a Jul 2024 - Directly OnDemand Inc'},
-        {name: 'Freelancer - Avaliador - Certificação de profissionais SEDUC/SP em gestão escolar para o ensino e a aprendizagem', details: 'Mar 2025 atual - Fundação Getúlio Vargas'}
+        {name: 'Freelancer - Avaliador - Certificação de profissionais SEDUC/SP em gestão escolar para o ensino e a aprendizagem', details: 'Mar 2025 a atual - Fundação Getúlio Vargas'}
       ]
     },
     courses:{
@@ -145,7 +145,7 @@ Vue.createApp({
     achievements:{
       en:[
         {name: 'Basic Design of a Waste Flow Regulation Tank', span: 'for Foz do Brasil WTP in Limeira/SP (2012)'},
-        {name: 'Environmental studies and licensing', span: 'of the Mercedes Benz SA manufacturing unit in Iracemápolis/SP (2014)'},
+        {name: 'Environmental studies and licensing', span: 'of the Mercedes-Benz SA manufacturing unit in Iracemápolis/SP (2014)'},
         {name: 'Development of Solid Waste Management Plans', span: 'for Polypack Laboratório de Ensaios LTDA (2014), and for the municipalities of Pirassununga/SP (2014 to 2015) and Redenção da Serra/SP (2015 to 2018)', 
         details:[
           {subhead: 'Contextualization', text: 'preliminary data collection about the municipality, such as population growth, socioeconomic profile, land use, climate, topography, hydrography, and local legislation'},
@@ -193,7 +193,7 @@ Vue.createApp({
       ],
       pt:[
         {name: 'Projeto Básico de um Tanque de Regularização de Vazão de resíduos', span: 'para a ETA Foz do Brasil em Limeira/SP (2012)'},
-        {name: 'Estudos e licenciamento ambiental', span: 'da unidade fabril da Mercedes Benz SA em Iracemápolis/SP (2014)'},
+        {name: 'Estudos e licenciamento ambiental', span: 'da unidade fabril da Mercedes-Benz SA em Iracemápolis/SP (2014)'},
         {name: 'Elaboração de Planos de Gestão de Resíduos Sólidos', span: 'da Polypack Laboratório de Ensaios LTDA (2014), e para os municípios de Pirassununga/SP (2014 a 2015) e Redenção da Serra/SP (2015 a 2018)', 
         details:[
           {subhead: 'Contextualização', text: 'levantamento de informações preliminares sobre o município, como evolução populacional, perfil socioeconômico, uso do solo, clima, relevo, hidrografia e legislações locais'},
@@ -224,9 +224,9 @@ Vue.createApp({
         {name: 'Monitoramento ambiental das obras de fixação do Rio Itapocu', span: 'da cidade de Barra Velha/SC (2017 a 2018)'},
         {name: 'Projeto de Segurança Viária para angariamento de verbas DETRAN/SP', span: 'para o município de Monte Alto/SP (2018)'},
         {name: 'Estudo de Viabilidade Técnica, Econômica, Financeira e Ambiental do Centro de Inovação Tecnológica', span: 'da cidade de Registro/SP (2018)'},
-        {name: 'Suporte estratégico e operacional à clientes da plataforma Airbnb e treinamento de IA', span: ' na Directly OnDemand Inc, USA (2018 a 2024)', 
+        {name: 'Suporte estratégico e operacional a clientes da plataforma Airbnb e treinamento de IA', span: ' na Directly OnDemand Inc, USA (2018 a 2024)', 
         details:[
-          {subhead: '', text: 'Treinamento de IA com foco ao atendimento ao consumidor'},
+          {subhead: '', text: 'Treinamento de IA com foco no atendimento ao consumidor'},
           {subhead: '', text: 'Aperfeiçoamento de anúncios (descrição, imagens, regras)'},
           {subhead: '', text: 'Estratégias de gerenciamento de calendários e preços'},
           {subhead: '', text: 'Gerenciamento de pagamentos e prazos de reservas'},
